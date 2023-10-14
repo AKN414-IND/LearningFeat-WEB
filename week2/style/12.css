@@ -1,0 +1,10 @@
+.three {
+    display: flex;
+    margin: 30px;
+}
+.three p{
+    margin: 20px;
+}
+p{
+    text-align: center;
+}
